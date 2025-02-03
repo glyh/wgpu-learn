@@ -1,6 +1,4 @@
 use winit::{
-    dpi::PhysicalSize,
-    error::EventLoopError,
     event::*,
     event_loop::EventLoop,
     keyboard::{KeyCode, PhysicalKey},
